@@ -15,9 +15,6 @@ import org.springframework.stereotype.Component;
 import java.io.UnsupportedEncodingException;
 import java.util.UUID;
 
-/**
- * @author Sampson Alfred
- */
 @Slf4j
 @Component
 @RequiredArgsConstructor

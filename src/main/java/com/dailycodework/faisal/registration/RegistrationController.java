@@ -10,9 +10,6 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @author Sampson Alfred
- */
 @RestController
 @RequiredArgsConstructor
 @RequestMapping("/register")
